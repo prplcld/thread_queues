@@ -1,0 +1,9 @@
+﻿  AtomicBlockingQueue.cpp
+e:\labs\c++\thread-queues\atomicblockingqueue\atomicblockingqueue\atomicblockingqueue.cpp(24): warning C4244: аргумент: преобразование "const __int64" в "int", возможна потеря данных
+e:\labs\c++\thread-queues\atomicblockingqueue\atomicblockingqueue\atomicblockingqueue.cpp(52): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода
+  33 of 360 functions ( 9.2%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  AtomicBlockingQueue.vcxproj -> E:\labs\c++\thread-queues\AtomicBlockingQueue\Release\AtomicBlockingQueue.exe

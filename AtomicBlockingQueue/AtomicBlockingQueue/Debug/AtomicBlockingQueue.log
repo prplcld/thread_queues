@@ -1,0 +1,4 @@
+﻿  AtomicBlockingQueue.cpp
+e:\labs\c++\thread-queues\atomicblockingqueue\atomicblockingqueue\atomicblockingqueue.cpp(24): warning C4244: аргумент: преобразование "const __int64" в "int", возможна потеря данных
+e:\labs\c++\thread-queues\atomicblockingqueue\atomicblockingqueue\atomicblockingqueue.cpp(52): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  AtomicBlockingQueue.vcxproj -> E:\labs\c++\thread-queues\AtomicBlockingQueue\Debug\AtomicBlockingQueue.exe
